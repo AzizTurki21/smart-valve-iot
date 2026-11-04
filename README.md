@@ -18,8 +18,14 @@ The report does not state the automatic temperature threshold. This repository d
 ## Project materials
 
 - [Original internship report](report.pdf)
-- [Circuit diagram from the report](assets/wiring-diagram.png)
-- [Blynk dashboard screenshot from the report](assets/blynk-dashboard.png)
+
+### Circuit diagram
+
+![Circuit schematic reproduced from the internship report, showing the NodeMCU ESP8266, DHT11, relay module and solenoid valve](assets/wiring-diagram.png)
+
+### Blynk dashboard
+
+![Blynk dashboard screenshot reproduced from the internship report](assets/blynk-dashboard.png)
 
 The circuit image is reproduced from the report's schematic page. The report includes a 230 VAC power supply and describes an LPG facility. Treat these materials as a historical project record, not wiring or deployment instructions. Do not connect this student prototype to an industrial gas installation or mains power. Any physical implementation requires review by qualified electrical and safety professionals.
 
